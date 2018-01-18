@@ -2,6 +2,7 @@
 This is my mini project on programming the well known Mine Sweep game.
 The current version (1.0) does not include a user interface. 
 To execute the file, run
+
 ./MineSweep
 
 This will give a pop-out on which level of difficulty to select.
